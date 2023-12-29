@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN-SUFFIX,amazon.com,PROXY
+  - DOMAIN-SUFFIX,a2z.com,PROXY
+  - DOMAIN-SUFFIX,awsstatic.com,PROXY
   - DOMAIN-SUFFIX,tiktokv.com,PROXY
   - DOMAIN-SUFFIX,pscp.tv,PROXY
   - DOMAIN-SUFFIX,t.me,PROXY
