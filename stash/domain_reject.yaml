@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN,uc.qbox.me,REJECT
+  - DOMAIN,rmonitor.qq.com,REJECT
+  - DOMAIN,wetype.weixin.qq.com,REJECT
+  - DOMAIN,mesu.apple.com,REJECT
+  - DOMAIN,xp.apple.com,REJECT
+  - DOMAIN,gdmf.apple.com,REJECT
+  - DOMAIN-SUFFIX,cdntips.net,REJECT
+  - DOMAIN-SUFFIX,app-measurement.com,REJECT
+  - DOMAIN-SUFFIX,googleadservices-cn.com,REJECT
+  - DOMAIN-SUFFIX,doubleclick-cn.net,REJECT
+  - DOMAIN-SUFFIX,doubleclick.net,REJECT
+  - DOMAIN-SUFFIX,trace.qq.com,REJECT
+  - DOMAIN-SUFFIX,mtrace.qq.com,REJECT
+  - DOMAIN-SUFFIX,btrace.qq.com,REJECT
+

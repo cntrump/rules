@@ -1,0 +1,5 @@
+#!name=Block Wechat Input Requests
+#!desc=Reject Wechat Input requests for better network performance.
+[Rule]
+DOMAIN,rmonitor.qq.com,REJECT
+DOMAIN,wetype.weixin.qq.com,REJECT

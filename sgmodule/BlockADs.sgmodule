@@ -1,0 +1,6 @@
+#!name=Block AD Requests
+#!desc=Reject AD requests for better network performance.
+[Rule]
+DOMAIN-SUFFIX,googleadservices-cn.com,REJECT
+DOMAIN-SUFFIX,doubleclick-cn.net,REJECT
+DOMAIN-SUFFIX,doubleclick.net,REJECT

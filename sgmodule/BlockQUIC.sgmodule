@@ -1,0 +1,4 @@
+#!name=Block HTTP3/QUIC Requests
+#!desc=Reject HTTP3/QUIC requests for better network performance.
+[Rule]
+AND,((PROTOCOL,UDP),(OR,((DEST-PORT,80),(DEST-PORT,443)))),REJECT
