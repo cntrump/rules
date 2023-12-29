@@ -19,10 +19,10 @@ payload:
   - DOMAIN-SUFFIX,appsflyer.com,DIRECT
   - DOMAIN-SUFFIX,hdslb.com,DIRECT
   - DOMAIN-SUFFIX,bilibili.com,DIRECT
+  - DOMAIN-SUFFIX,biliimg.com,DIRECT
   - DOMAIN-SUFFIX,biligame.com,DIRECT
   - DOMAIN-SUFFIX,bilicomic.com,DIRECT
   - DOMAIN-SUFFIX,bilicomics.com,DIRECT
-  - DOMAIN-SUFFIX,biliimg.com,DIRECT
   - DOMAIN-SUFFIX,bilivideo.com,DIRECT
   - DOMAIN-SUFFIX,biliapi.com,DIRECT
   - DOMAIN-SUFFIX,biliapi.net,DIRECT
@@ -69,8 +69,6 @@ payload:
   - DOMAIN-SUFFIX,pool.ntp.org,DIRECT
   - DOMAIN-SUFFIX,digicert.com,DIRECT
   - DOMAIN-SUFFIX,digitalcertvalidation.com,DIRECT
-  - DOMAIN-SUFFIX,txrjy.com,DIRECT
-  - DOMAIN-SUFFIX,test-ipv6.com,DIRECT
   - DOMAIN-SUFFIX,ccrgt.com,DIRECT
   - DOMAIN-SUFFIX,qcloud.com,DIRECT
   - DOMAIN-SUFFIX,voovmeeting.com,DIRECT
