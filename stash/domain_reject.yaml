@@ -4,7 +4,6 @@ payload:
   - DOMAIN,mesu.apple.com,REJECT
   - DOMAIN,xp.apple.com,REJECT
   - DOMAIN,gdmf.apple.com,REJECT
-  - DOMAIN-SUFFIX,app-measurement.com,REJECT
   - DOMAIN-SUFFIX,cdntips.net,REJECT
   - DOMAIN-SUFFIX,trace.qq.com,REJECT
   - DOMAIN-SUFFIX,mtrace.qq.com,REJECT
