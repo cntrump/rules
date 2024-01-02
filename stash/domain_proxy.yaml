@@ -2,6 +2,8 @@ payload:
   - DOMAIN-SUFFIX,amazon.com,PROXY
   - DOMAIN-SUFFIX,a2z.com,PROXY
   - DOMAIN-SUFFIX,awsstatic.com,PROXY
+  - DOMAIN-SUFFIX,tiktokcdn-us.com,PROXY
+  - DOMAIN-SUFFIX,tiktokcdn.com,PROXY
   - DOMAIN-SUFFIX,tiktokv.com,PROXY
   - DOMAIN-SUFFIX,pscp.tv,PROXY
   - DOMAIN-SUFFIX,t.me,PROXY
@@ -35,3 +37,4 @@ payload:
   - DOMAIN-SUFFIX,hk,PROXY
   - DOMAIN-SUFFIX,tw,PROXY
   - DOMAIN-SUFFIX,jp,PROXY
+  - DOMAIN-SUFFIX,us,PROXY
