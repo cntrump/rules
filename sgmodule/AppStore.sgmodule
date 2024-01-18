@@ -1,0 +1,5 @@
+#!name=Proxy App Store Requests
+#!desc=Proxy App Store requests for faster speed.
+[Rule]
+DOMAIN-SUFFIX,iosapps.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,osxapps.itunes.apple.com,Proxy
