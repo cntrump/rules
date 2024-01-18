@@ -98,6 +98,7 @@ payload:
   - DOMAIN-SUFFIX,qqmail.com,DIRECT
   - DOMAIN-SUFFIX,idqqimg.com,DIRECT
   - DOMAIN-SUFFIX,qq.com,DIRECT
+  - DOMAIN-SUFFIX,wecom.work,DIRECT
   - DOMAIN-SUFFIX,tencent.com,DIRECT
   - DOMAIN-SUFFIX,weixin.com,DIRECT
   - DOMAIN-SUFFIX,weixinbridge.com,DIRECT
