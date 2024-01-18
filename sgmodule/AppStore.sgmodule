@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,iosapps.itunes.apple.com,Proxy
 DOMAIN-SUFFIX,osxapps.itunes.apple.com,Proxy
 DOMAIN-SUFFIX,updates.cdn-apple.com,Proxy
 DOMAIN-SUFFIX,blobstore.apple.com,Proxy
+DOMAIN-SUFFIX,icloud-content.com,Proxy
