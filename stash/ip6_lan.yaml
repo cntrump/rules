@@ -1,3 +1,0 @@
-payload:
-  - IP-CIDR6,fd00::/8,DIRECT
-  - IP-CIDR6,1::/32,DIRECT
