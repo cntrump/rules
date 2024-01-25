@@ -1,0 +1,9 @@
+#!name=Redirect Google CN
+#!desc=Redirect Google CN to COM.
+[General]
+always-raw-tcp-hosts = %INSERT% -g.cn, -google.cn
+[URL Rewrite]
+^http(s)?://(www.)?g.cn https://www.google.com 302
+^http(s)?://(www.)?google.cn https://www.google.com 302
+[MITM]
+hostname = %INSERT% g.cn, google.cn
