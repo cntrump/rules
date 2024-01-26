@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,icloud-content.com,Proxy
 DOMAIN-SUFFIX,swscan.apple.com,Proxy
 DOMAIN-SUFFIX,swdist.apple.com,Proxy
 DOMAIN-SUFFIX,swcdn.apple.com,Proxy
+DOMAIN-SUFFIX,download.developer.apple.com,Proxy
