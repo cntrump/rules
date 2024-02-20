@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,swscan.apple.com,Proxy
 DOMAIN-SUFFIX,swdist.apple.com,Proxy
 DOMAIN-SUFFIX,swcdn.apple.com,Proxy
 DOMAIN-SUFFIX,download.developer.apple.com,Proxy
+DOMAIN-SUFFIX,appstoreconnect.apple.com,Proxy
