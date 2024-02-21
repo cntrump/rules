@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,swdist.apple.com,Proxy
 DOMAIN-SUFFIX,swcdn.apple.com,Proxy
 DOMAIN-SUFFIX,download.developer.apple.com,Proxy
 DOMAIN-SUFFIX,appstoreconnect.apple.com,Proxy
+DOMAIN-SUFFIX,contentdelivery.itunes.apple.com,Proxy
