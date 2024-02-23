@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,tencentmusic.com,DIRECT
   - DOMAIN-SUFFIX,antpcdn.com,DIRECT
   - DOMAIN-SUFFIX,88cdn.com,DIRECT
   - DOMAIN-SUFFIX,xunlei.com,DIRECT
@@ -71,6 +72,7 @@ payload:
   - DOMAIN-SUFFIX,digitalcertvalidation.com,DIRECT
   - DOMAIN-SUFFIX,ccrgt.com,DIRECT
   - DOMAIN-SUFFIX,qcloud.com,DIRECT
+  - DOMAIN-SUFFIX,myqcloud.com,DIRECT
   - DOMAIN-SUFFIX,voovmeeting.com,DIRECT
   - DOMAIN-SUFFIX,byteoversea.com,DIRECT
   - DOMAIN-SUFFIX,larksuite.com,DIRECT
