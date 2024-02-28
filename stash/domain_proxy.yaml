@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN-SUFFIX,microsoft-falcon.io,PROXY
+  - DOMAIN-SUFFIX,microsoft.com,PROXY
+  - DOMAIN-SUFFIX,microsoftonline.com,PROXY
   - DOMAIN-SUFFIX,msn.com,PROXY
   - DOMAIN-SUFFIX,microsoftapp.net,PROXY
   - DOMAIN-SUFFIX,bingapis.com,PROXY
