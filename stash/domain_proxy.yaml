@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,hotmail.com,PROXY
+  - DOMAIN-SUFFIX,outlook.com,PROXY
   - DOMAIN-SUFFIX,auth0.com,PROXY
   - DOMAIN-SUFFIX,chatgpt.com,PROXY
   - DOMAIN-SUFFIX,openai.com,PROXY
