@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,xiaohongshu.com,DIRECT
+  - DOMAIN-SUFFIX,xhscdn.com,DIRECT
   - DOMAIN-SUFFIX,tencentmusic.com,DIRECT
   - DOMAIN-SUFFIX,antpcdn.com,DIRECT
   - DOMAIN-SUFFIX,88cdn.com,DIRECT
