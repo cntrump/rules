@@ -1,5 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,medium.com,PROXY
+  - DOMAIN-SUFFIX,appcenter.ms,PROXY
+  - DOMAIN-SUFFIX,live.com,PROXY
+  - DOMAIN-SUFFIX,onedrive.com,PROXY
+  - DOMAIN-SUFFIX,skype.com,PROXY
   - DOMAIN-SUFFIX,hotmail.com,PROXY
   - DOMAIN-SUFFIX,outlook.com,PROXY
   - DOMAIN-SUFFIX,auth0.com,PROXY
